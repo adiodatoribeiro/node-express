@@ -6,6 +6,6 @@
 
 1.2 Foi criado em nossa aplicação rotas públicas e privadas, configuradas com middleware para autenticação e testadas usando Insomnia.
 
-#Tecnologio usada:
+#Tecnologia usada:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
