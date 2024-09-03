@@ -5,3 +5,7 @@
 1.1 O MiddleWare intercepta a requisição antes que ela chegue à rota final.
 
 1.2 Foi criado em nossa aplicação rotas públicas e privadas, configuradas com middleware para autenticação e testadas usando Insomnia.
+
+#Tecnologio usada:
+
+![JavaScript](https://skillicons.dev/icons?i=js)
